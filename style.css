@@ -1,0 +1,48 @@
+body {
+  background-image: linear-gradient(purple, pink);
+}
+#all-btn {
+  margin-left: 800px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#Second-img {
+  margin-left: 500px;
+}
+#first-img {
+  float: left;
+}
+#ratting-con {
+  margin-left: 510px;
+}
+#submit-con {
+  background-color: deepskyblue;
+}
+#bio-con {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/4c032e28008799.56e41b3bbd979.gif");
+  background-repeat: no-repeat;
+}
+.join-con {
+  text-align: center;
+}
+.join-con a {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+#submit-con {
+  text-align: center;
+}
+#submit-con a {
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+h2 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 50px;
+}
